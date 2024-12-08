@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <TheHeader title="My Nuxt Vite App" />
   </div>
 </template>
