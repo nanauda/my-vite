@@ -2,6 +2,7 @@
   <div>
     <NuxtRouteAnnouncer />
     <TheHeader title="My Nuxt Vite App" />
-    <Watch />
+    
+    <NuxtPage />
   </div>
 </template>
